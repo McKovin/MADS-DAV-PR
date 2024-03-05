@@ -10,7 +10,7 @@ def display_art():
     print(art)
 
 def display_message():
-    message = "MaGroeten van Marjolein"
+    message = "Groeten van Marjolein. Succes met GIT!!!!!!!!!!!!! \nGIT IS THE BEST!!!"
     print(message)
 
 if __name__ == "__main__":
