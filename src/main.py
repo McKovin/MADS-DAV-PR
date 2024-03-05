@@ -26,6 +26,7 @@ def run_script(script_name):
         print(result.stderr)
 
     print(f"Finished running {script_name}\n")
+    print("Succesful run")
 
 if __name__ == "__main__":
     for script in scripts:
