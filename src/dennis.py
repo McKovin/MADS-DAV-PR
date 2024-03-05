@@ -1,14 +1,14 @@
 def display_art():
     art = """
        .----.
-      |C>_  |
+      |C>_O |
       |     |
       `----'
     """
     print(art)
 
 def display_message():
-    message = "Groeten van Dennis"
+    message = "Groeten van Dennis Jansen"
     print(message)
 
 if __name__ == "__main__":
