@@ -8,7 +8,7 @@ def display_art():
     print(art)
 
 def display_message():
-    message = "Groeten van Jacco"
+    message = "Nieuwe groet van Jacco"
     print(message)
 
 if __name__ == "__main__":
